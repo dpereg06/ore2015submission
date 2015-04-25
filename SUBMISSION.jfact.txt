@@ -1,0 +1,52 @@
+-   Enclosed to the reasoner submission, we need the following
+    information for the submitted reasoner:
+
+    -   The name of the reasoner.
+
+* JFact
+
+    -   The version of the reasoner.
+
+* 4.0.1
+
+    -   The license of the reasoner.
+
+* LGPL v2
+
+    -   The homepage of the reasoner.
+
+* https://github.com/owlcs/jfact
+
+    -   A brief description of the reasoner (1–2 sentences about the
+        reasoner).
+
+* JFact is a Java port of the FaCT++ OWL DL reasoner with an improved datatype support
+
+    -   The developer team of the reasoner (the names of the
+        developers).
+
+* Ignazio Palmisano, Dmitry Tsarkov.
+
+    -   The reasoning tasks that should be evaluated.
+
+* Consistency checking, Satisfiability checking, classification, realisation
+
+    -   The OWL 2 Profiles for which the reasoner should be evaluated.
+
+* EL, RL, QL, DL
+
+    -   The OWL 2 serialisation format that is required by the reasoner.
+
+* any supported by OWL API 4.0.2
+
+    -   The OWL 2 Profiles/Desciption Logics for which the reasoner is
+        complete, e.g., RL except datatypes.
+
+* EL, RL, QL, DL
+
+    -   Whether you give permission that the submitted reasoner can be
+        downloaded from the competition webpage (after the competition)
+        such that the results can be reproduced (if yes, make sure that
+        this does not violate any licenses).
+
+* yes
