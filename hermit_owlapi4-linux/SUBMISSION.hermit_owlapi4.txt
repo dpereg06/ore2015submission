@@ -1,0 +1,52 @@
+-   Enclosed to the reasoner submission, we need the following
+    information for the submitted reasoner:
+
+    -   The name of the reasoner.
+
+* HetmiT
+
+    -   The version of the reasoner.
+
+* 1.3.8.5-SNAPSHOT
+
+    -   The license of the reasoner.
+
+* LGPL
+
+    -   The homepage of the reasoner.
+
+* https://github.com/ignazio1977/hermit-reasoner
+
+    -   A brief description of the reasoner (1–2 sentences about the
+        reasoner).
+
+* HermiT is a conformant OWL 2 DL reasoner that uses the direct semantics. It supports all OWL2 DL constructs and the datatypes required by the OWL 2 specification. This version of HermiT has been updated to use OWLAPI 4.0.2 and Java 7 (or newer - tested with Java 8)
+
+    -   The developer team of the reasoner (the names of the
+        developers).
+
+*  Boris Motik, Rob Shearer, Birte Glimm, Giorgos Stoilos, and Ian Horrocks. Additional contributions by Phillip Lord and Ignazio Palmisano (OWLAPI updates).
+
+    -   The reasoning tasks that should be evaluated.
+
+* Consistency checking, Satisfiability checking, classification, realisation
+
+    -   The OWL 2 Profiles for which the reasoner should be evaluated.
+
+* EL, RL, QL, DL
+
+    -   The OWL 2 serialisation format that is required by the reasoner.
+
+* any supported by OWL API 4.0.2
+
+    -   The OWL 2 Profiles/Desciption Logics for which the reasoner is
+        complete, e.g., RL except datatypes.
+
+* EL, RL, QL, DL
+
+    -   Whether you give permission that the submitted reasoner can be
+        downloaded from the competition webpage (after the competition)
+        such that the results can be reproduced (if yes, make sure that
+        this does not violate any licenses).
+
+* yes
