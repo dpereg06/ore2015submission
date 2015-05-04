@@ -7,7 +7,7 @@
 ReasonerName	JFact
 
 # The output sub-directory in the 'responses' folder, must not contain characters that are not allowed for paths/files.
-OutputPathName	hermit-linux
+OutputPathName	jfact-linux
 
 # The starter script that is executed to start the reasoner, must be executable!
 StarterScript	RELATIVETOSOURCEDIRECTORY	./execReasoner.sh
