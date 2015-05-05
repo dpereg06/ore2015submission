@@ -1,0 +1,53 @@
+-   Enclosed to the reasoner submission, we need the following
+    information for the submitted reasoner:
+
+    -   The name of the reasoner.
+
+* Pellet (fork by ignazio1977)
+
+    -   The version of the reasoner.
+
+* 2.4.0-ignazio1977
+
+    -   The license of the reasoner.
+
+* AGPL
+
+    -   The homepage of the reasoner.
+
+* https://github.com/ignazio1977/pellet (fork homepage) https://github.com/complexible/pellet (upstream)
+
+    -   A brief description of the reasoner (1–2 sentences about the
+        reasoner).
+
+* Pellet is an OWL 2 DL reasoner: Open Source (AGPL) or commercial license available, pure Java, developed and commercially supported by Complexible Inc. This version is a fork whose aim is to make Pellet compatible with OWLAPI 4.
+Disclaimer: Complexible, Inc. has not approved this submission. Any errors in the packaging or in the update to OWLAPI 4 are the responsibility of the fork maintainter, ignazio1977.
+
+    -   The developer team of the reasoner (the names of the
+        developers).
+
+* Complexible, inc. http://clarkparsia.com/pellet (this fork is curated by ignazio1977)
+
+    -   The reasoning tasks that should be evaluated.
+
+* Consistency checking, Satisfiability checking, classification, realisation
+
+    -   The OWL 2 Profiles for which the reasoner should be evaluated.
+
+* EL, RL, QL, DL
+
+    -   The OWL 2 serialisation format that is required by the reasoner.
+
+* any supported by OWL API 4.0.2
+
+    -   The OWL 2 Profiles/Desciption Logics for which the reasoner is
+        complete, e.g., RL except datatypes.
+
+* EL, RL, QL, DL
+
+    -   Whether you give permission that the submitted reasoner can be
+        downloaded from the competition webpage (after the competition)
+        such that the results can be reproduced (if yes, make sure that
+        this does not violate any licenses).
+
+* yes
