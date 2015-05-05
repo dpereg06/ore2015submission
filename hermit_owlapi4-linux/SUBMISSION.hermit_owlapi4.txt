@@ -3,7 +3,7 @@
 
     -   The name of the reasoner.
 
-* HetmiT
+* HermiT
 
     -   The version of the reasoner.
 
