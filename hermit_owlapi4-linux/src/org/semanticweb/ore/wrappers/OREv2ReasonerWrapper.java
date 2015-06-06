@@ -5,6 +5,7 @@ import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 
+import org.semanticweb.HermiT.Reasoner;
 import org.semanticweb.owlapi.apibinding.OWLManager;
 import org.semanticweb.owlapi.formats.FunctionalSyntaxDocumentFormat;
 import org.semanticweb.owlapi.io.StringDocumentTarget;
@@ -272,7 +273,8 @@ public class OREv2ReasonerWrapper {
      * @throws Exception
      */
     public static void main(String[] args) throws Exception {
-        String factoryString = args[0];
+        String factoryString = Reasoner.ReasonerFactory.class.getName();// args[0];
+        System.out.println("OREv2ReasonerWrapper.main() " + factoryString);
         String operationString = args[1];
         String ontologyFileString = args[2];
         String outputFileString = args[3];
